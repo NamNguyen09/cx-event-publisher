@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>cx.EventsPublisher</id>
+    <title>cx.EventsPublisher</title>
+    <version>1.0.0</version>
+    <authors>TomLee</authors>
+    <owners>TomLee</owners>
+    <projectUrl>https://github.com/NamNguyen09/cx-event-publisher</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Helper for pub/sub with Unity Application Block</description>
+    <copyright>Copyright TomLee 2023</copyright>
+	<releaseNotes>Helper for pub/sub with Unity Application Block</releaseNotes>
+  </metadata>
+  <!--<files>
+    <file src="bin\$configuration$\cx.EventsPublisher.dll" target="lib\net48\" />
+    <file src="bin\$configuration$\cx.EventsPublisher.pdb" target="lib\net48\" />  
+  </files>-->
+</package>
